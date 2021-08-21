@@ -22,7 +22,7 @@ html{
     }
 
 .outer{
-    background: url('images/Certificate.png') center/ cover;
+    background: url('./Certificate.png') center/ cover;
     display: flex;
     justify-content: center;
     align-items: center;
