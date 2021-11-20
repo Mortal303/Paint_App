@@ -21,15 +21,15 @@ p::first-line {
 ```
 
 
-```**Note:** Instead of pseudo-elements,[pseudo-classes](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes) can be used to style an element based on its *state*.
+**Note:** Instead of pseudo-elements,[pseudo-classes](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes) can be used to style an element based on its *state*.
 ```
 ## Syntax
-```
-    css
+
+    
 selector::pseudo-element{
   property: value;
 }  
-```
+
 
 You can use only one pseudo-element for a selector. It must appear after the simple selectors in the statement.
 
@@ -41,7 +41,9 @@ Pseudo-elements defined by a set of CSS specifications include the following:
 
 A
 
-   -```[::after (:after)](https://developer.mozilla.org/en-US/docs/Web/CSS/::after) ```
+   -```
+   [::after (:after)](https://developer.mozilla.org/en-US/docs/Web/CSS/::after) 
+   ```
 
 B
 
