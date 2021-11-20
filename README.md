@@ -43,7 +43,7 @@ Pseudo-elements defined by a set of CSS specifications include the following:
 
 A 
     
-   -     ```[::after (:after)]```(https://developer.mozilla.org/en-US/docs/Web/CSS/::after) 
+   -     [::after (:after)]```(https://developer.mozilla.org/en-US/docs/Web/CSS/::after)``` 
    
 
 B
