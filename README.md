@@ -36,56 +36,56 @@ You can use only one pseudo-element for a selector. It must appear after the sim
 
 ***Note:*** 
 ```
-As a rule, double colons(::) are preffered instead of a single colon(:). This distinguishes pseudo-classes from psedo-elements.However, since this distinction was not present in older versions of the W3C spec, most browsers support both syntaxes for the original pseudo-elements.
+As a rule, double colons```(::)``` are preffered instead of a single colon```(:)```. This distinguishes pseudo-classes from psedo-elements.However, since this distinction was not present in older versions of the W3C spec, most browsers support both syntaxes for the original pseudo-elements.
 ```
 ## Index
 Pseudo-elements defined by a set of CSS specifications include the following:
 
 A 
     
-   -[::after (:after)](https://developer.mozilla.org/en-US/docs/Web/CSS/::after) 
+   -     ```[::after (:after)]```(https://developer.mozilla.org/en-US/docs/Web/CSS/::after) 
    
 
 B
     
-   -[::backdrop](https://developer.mozilla.org/en-US/docs/Web/CSS/::backdrop)
-   -[::before (:before)](https://developer.mozilla.org/en-US/docs/Web/CSS/::before)
+   -     ```[::backdrop]```(https://developer.mozilla.org/en-US/docs/Web/CSS/::backdrop)
+   -     ```[::before (:before)]```(https://developer.mozilla.org/en-US/docs/Web/CSS/::before)
      
 C  
 
-   -[::cue](https://developer.mozilla.org/en-US/docs/Web/CSS/:⛑️)
-   -[::cue-region ](https://developer.mozilla.org/en-US/docs/Web/CSS/::cue-region)
+   -     [::cue](https://developer.mozilla.org/en-US/docs/Web/CSS/:⛑️)
+   -     [::cue-region ](https://developer.mozilla.org/en-US/docs/Web/CSS/::cue-region)
 
 F
 
-   -[::first-letter(:first-letter)](https://developer.mozilla.org/en-US/docs/Web/CSS/::first-letter)
-   -[::first-line(:first-line)](https://developer.mozilla.org/en-US/docs/Web/CSS/::first-line)
-   -[::file-selector-button(:first-letter)](https://developer.mozilla.org/en-US/docs/Web/CSS/::file-selector-button)
+   -     [::first-letter(:first-letter)](https://developer.mozilla.org/en-US/docs/Web/CSS/::first-letter)
+   -     [::first-line(:first-line)](https://developer.mozilla.org/en-US/docs/Web/CSS/::first-line)
+   -     [::file-selector-button(:first-letter)](https://developer.mozilla.org/en-US/docs/Web/CSS/::file-selector-button)
 
 
 G
 
-   -[::grammar-error](https://developer.mozilla.org/en-US/docs/Web/CSS/::grammar-error)
+   -     [::grammar-error](https://developer.mozilla.org/en-US/docs/Web/CSS/::grammar-error)
 
 
 M
 
-   -[::marker](https://developer.mozilla.org/en-US/docs/Web/CSS/::marker)
+   -     [::marker](https://developer.mozilla.org/en-US/docs/Web/CSS/::marker)
 
 
 P
 
-   -[::part()](https://developer.mozilla.org/en-US/docs/Web/CSS/:〽️)``` 
-   -[::placeholder()](https://developer.mozilla.org/en-US/docs/Web/CSS/::placeholder)``` 
+   -     [::part()](https://developer.mozilla.org/en-US/docs/Web/CSS/:〽️)
+   -     [::placeholder()](https://developer.mozilla.org/en-US/docs/Web/CSS/::placeholder)
     
 S
 
-   -[::selection](https://developer.mozilla.org/en-US/docs/Web/CSS/::selection)``` 
-   -```[::slotted()](https://developer.mozilla.org/en-US/docs/Web/CSS/::slotted)``` 
-   -```[::spelling-error](https://developer.mozilla.org/en-US/docs/Web/CSS/::spelling-error)``` 
+   -     [::selection](https://developer.mozilla.org/en-US/docs/Web/CSS/::selection)
+   -     [::slotted()](https://developer.mozilla.org/en-US/docs/Web/CSS/::slotted)
+   -     [::spelling-error](https://developer.mozilla.org/en-US/docs/Web/CSS/::spelling-error)
  
  
 T
 
-   -```[::target-text](https://developer.mozilla.org/en-US/docs/Web/CSS/::target-text)```
+   -     [::target-text](https://developer.mozilla.org/en-US/docs/Web/CSS/::target-text)
  
