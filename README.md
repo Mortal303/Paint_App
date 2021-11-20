@@ -22,28 +22,28 @@ p::first-line {
 
 
 **Note:** Instead of pseudo-elements,[pseudo-classes](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes) can be used to style an element based on its *state*.
-```
+
 ## Syntax
 
-    
+```    
 selector::pseudo-element{
   property: value;
 }  
-
+```
 
 You can use only one pseudo-element for a selector. It must appear after the simple selectors in the statement.
 
-```
-***Note:*** As a rule, double colons(::) are preffered instead of a single colon(:). This distinguishes pseudo-classes from psedo-elements.However, since this distinction was not present in older versions of the W3C spec, most browsers support both syntaxes for the original pseudo-elements.
+
+***Note:***``` As a rule, double colons(::) are preffered instead of a single colon(:). This distinguishes pseudo-classes from psedo-elements.However, since this distinction was not present in older versions of the W3C spec, most browsers support both syntaxes for the original pseudo-elements.
 ```
 ## Index
 Pseudo-elements defined by a set of CSS specifications include the following:
 
 A
 
-   -```
+   -
    [::after (:after)](https://developer.mozilla.org/en-US/docs/Web/CSS/::after) 
-   ```
+   
 
 B
 
