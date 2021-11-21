@@ -10,18 +10,18 @@ https://mortal303.github.io/Paint_App/
 
 # Pseudo-elements
 
-A CSS **pseudo-element** is a keyword added to a selector that lets you style a specific part of the selected element(s). For example, ::first-line can be used to change the font of the first line of a paragraph.
+A CSS **pseudo-element** is a keyword added to a selector that lets you style a specific part of the selected element(s). For example, ::first-letter can be used to change the first letter of a paragraph.
 
 ```
-/* This will change first line of every <p> element to red color. */
-p::first-line {
+/* This will change first letter of every <p> element to red color and font-size to extra large. */
+p::first-letter {
   color: red;
-  text-transform: lowercase;
+  font-size: xx-large;
 }
 ```
 
 
-**Note:** Instead of pseudo-elements,[pseudo-classes](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes) can be used to style an element based on its *state*.
+**Note:** Instead of pseudo-elements, [pseudo-classes](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes) can be used to style an element based on its *state*.
 
 ## Syntax
 
@@ -30,7 +30,6 @@ selector::pseudo-element{
   property: value;
 }  
 ```
-
 You can use only one pseudo-element for a selector. It must appear after the simple selectors in the statement.
 
 
@@ -87,3 +86,8 @@ T
 
    -   ```  [::target-text] ```
  
+ 
+## Refrence
+
+- [MDN Documentation](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-elements)
+- [W3 School Docs](https://www.w3schools.com/css/css_pseudo_elements.asp)
