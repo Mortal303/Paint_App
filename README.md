@@ -46,8 +46,8 @@ A
 
 B
     
-   -     ```[::backdrop]```
-   -    ```[::before (:before)]```
+   -    [::backdrop]
+   -    [::before (:before)]
      
 C  
 
